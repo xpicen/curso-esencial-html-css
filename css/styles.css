@@ -1,0 +1,39 @@
+:root {
+    font-size: 16px;
+}
+body {
+    color:#424242;
+}
+
+header {
+    font-size: 0.875em;
+    color: #616161;
+}
+
+header a {
+    color: #616161;
+    text-decoration:none; 
+}
+header a:hover {
+    color: #212121;
+}
+
+details summary {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 3.75em;
+    color: #212121;
+}
+
+h2 {
+    font-size: 2em;
+    color: #212121;
+    
+}
+
+h3 {
+    font-size: 1.5em;  
+    color: #212121;
+}
